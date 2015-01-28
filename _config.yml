@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Sam Sherar - Dissertation'
+tagline:          ''
+description:      'Dissertation blog for the NHS iOS Formulary Application'
+url:              http://diss.samsherar.co.uk
+
+author:
+  name:           'Sam Sherar'
+  url:            https://twitter.com/samsherar
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/ssherar
