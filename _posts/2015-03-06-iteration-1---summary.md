@@ -3,13 +3,13 @@ layout: post
 title: "Iteration 1 - summary"
 ---
 
-It's been a while since I've updated this blog, so let's get down to what's happened!
+It's been a while since I've updated this blog (nearly 2 weeks!), so let's get down to what's happened... :) 
 
 ## Swift 1.2
 
-My last blog post was around XCode 6.3 and Swift 1.2. Since then, Apple has released a new beta version of XCode 6.3b2. This was a mostly welcomed release, bar a couple of legacy issues I have with Apple in general
+My last blog post was around XCode 6.3 and Swift 1.2. Since then, Apple has released a new beta version of XCode 6.3b2. This was a mostly welcomed release, bar a couple of legacy issues I have with Apple in general.
 
-Take for example this code in Swift 1.2 beta 1 and below
+Take for example this code in Swift 1.2 beta 1 and below:
 
 ```swift
 let splitString : [String] = split(formedString, { $0 == "." })
